@@ -1,2 +1,2 @@
 # go-mysql-dial-ext
-Custom resolver for MySQL connection
+Custom dial function for [MySQL driver](https://github.com/go-sql-driver/mysql)
